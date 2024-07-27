@@ -1,6 +1,7 @@
-.square {
-    width: 80px;
-    height: 80px;
-    border: 2px solid black;
-    background-color: yellowgreen;
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
 }
